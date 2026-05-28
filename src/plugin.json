@@ -1,0 +1,10 @@
+{
+  "publisher": "github.DevinSanders",
+  "id": "codec.ogg",
+  "name": "OGG Vorbis Codec",
+  "version": "1.0.0",
+  "author": "Devin Sanders",
+  "description": "Adds .ogg / .oga playback support to Game Master Sound Board via the NVorbis managed decoder.",
+  "entryDll": "OggCodecPlugin.dll",
+  "isTheme": false
+}
